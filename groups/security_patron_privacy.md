@@ -2,6 +2,10 @@
 
 Reporting to the BPG, the Security/Patron Privacy Working Group focuses on best practices around security of applications, hardware, and secure, ethical treatment of user data.
 
+### Resources
+
+* [Security documentation](https://github.com/upenn-libraries/Security)
+
 ### Members
 
 * Iva Goldsmith
