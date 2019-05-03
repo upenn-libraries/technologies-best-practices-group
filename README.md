@@ -8,14 +8,14 @@ The Library Technologies Best Practices Group (BPG) focuses on crafting unified 
 
 Several smaller working groups reporting to the BPG have formed to focus on specific areas for creating recommendations.  They are as follows:
 
-* [Accessibility](accessibility.md)
-* [DevOps](devops.md)
-* [Documentation](documentation.md)
-* [Project Management](project_management.md)
-* [Security/Patron Privacy](security_patron_privacy.md)
-* [Sunsetting Legacy Software/Hardware](sunsetting.md)
-* [Testing/QA](testing.md)
-* [UX and User Testing](user_testing.md)
+* [Accessibility](groups/accessibility.md)
+* [DevOps](groups/devops.md)
+* [Documentation](groups/documentation.md)
+* [Project Management](groups/project_management.md)
+* [Security/Patron Privacy](groups/security_patron_privacy.md)
+* [Sunsetting Legacy Software/Hardware](groups/sunsetting.md)
+* [Testing/QA](groups/testing.md)
+* [UX and User Testing](groups/user_testing.md)
 
 ### Core membership
 
